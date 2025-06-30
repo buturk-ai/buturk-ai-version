@@ -1,0 +1,7 @@
+pyqt5
+requests
+aiohttp
+httpx
+python-dotenv
+llama-cpp-python
+watchdog
