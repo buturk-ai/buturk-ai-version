@@ -1,0 +1,10 @@
+[
+  {
+    "last_input": "ابي تبني لعبة",
+    "interpreted_intent": "طلب: بناء لعبة باستخدام Unity"
+  },
+  {
+    "last_input": "كمل المشروع",
+    "interpreted_intent": "طلب: استئناف تنفيذ المشروع الحالي"
+  }
+]
