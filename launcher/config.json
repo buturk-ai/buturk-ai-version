@@ -1,0 +1,10 @@
+{
+  "default_language": "arabic",
+  "enable_voice": false,
+  "default_model": "llama3:latest",
+  "startup_goals": [
+    "استقبال أوامر المستخدم",
+    "تشغيل الذكاء المحلي",
+    "الاستعداد للتعلم من الإنترنت"
+  ]
+}
